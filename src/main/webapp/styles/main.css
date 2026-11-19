@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11pt;
+    margin-left: 2em;
+    margin-right: 2em;
+}
+h1 {
+    color: #008080;
+
+}
+h2 {
+    color: royalblue ;
+    font-size: 12pt;
+    margin-top: 1.2em;
+    margin-bottom: 0.5em;
+}
+
+table {
+    border: 1px solid #000;
+    border-collapse: collapse;
+    min-width: 560px;
+}
+th,td{
+    border: 1px solid #000;
+    padding: 8px 10px;
+    text-align: left;
+}
+.right{
+    text-align: right;
+}
+label {
+    float: left;
+    width: 6em;
+    margin-bottom: 0.5em;
+}
+input[type="submit"] {
+    font-family: inherit;
+    font-size: 1
+}
+#quantity {
+    width: 2em;
+    padding: 2px;
+}
+
+.bottom-btn {
+    margin-bottom: 8px;
+}
